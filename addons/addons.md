@@ -1,0 +1,56 @@
+# Addons #
+
+- Ackis Recipe List
+- ALL THE THINGS
+- Altoholic
+- AskMrRobot
+- AStral Keys
+- Auctionator
+- Auto Track Map Pin
+- AzeritePowerWeights
+- Azeroth Auto Pilot
+- CovenantMissionHelper
+- Deadly Boss Mods
+- Details! Damange Meter
+- ElvUI
+- ElvUI Adibags
+  - Shadowlands
+  - BoE & BoA
+  - Hearthstones
+  - Legion Filters
+- ElvUI Location Plus
+- ElvUI Nuts and Bolts
+- Floating Combat Text
+- Garrison Mission Manager
+- GatherMate2
+- GTFO
+- HandyNotes
+  - BfA Treasures
+  - Covenant Sanctum
+  - Legion Treasures
+  - Shadowlands
+- Hekili
+- Incognito
+- Legion ToDo
+- LFGSpamFilter
+- MinimapButtonBag Reborn
+- mOnArs WardrobeHelper
+- Mount Collector
+- O Item Level
+- OPie
+- Overachiever
+- Paste
+- Pawn
+- Raider.IO
+- RareScanner
+- Rarity
+- Scrap
+- SharedMedia_Causese
+- Simulationcraft
+- SpellFlash
+- TomTom
+- TradeSkillMaster
+- WeakAuras
+- World Quest Tracker
+- WowGatheringNodes
+- WowUp.Addon
