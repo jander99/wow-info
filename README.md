@@ -14,6 +14,9 @@ Notes for my World of Warcraft characters
 Level 60 Dwarf Paladin - Retribution / Protection  
 [Macros](macros/us-dalaran-theragrin.md)
 
+#### Notes ####
+[Nathria](notes/us-dalaran-theragrin-nathria.md)
+
 
 ### [Wörgrin](https://raider.io/characters/us/dalaran/W%C3%B6rgrin) ###
 
